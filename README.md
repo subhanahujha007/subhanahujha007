@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subhanahujha007
+- 👋 Hi, I’m @subhanshujha007
 - 👀 I’m interested in Web developement and dsa 
 - 🌱 I’m currently learning mordern web dev
 - 📫 How to reach me subhnahsujha001@gmail.com 
