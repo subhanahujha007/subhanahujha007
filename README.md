@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width=500 src="https://i.gifer.com/3AyY.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanahujha007" alt="subhanahujha007" /></a> </p>
 
-- 🔭 I’m currently working on **issue-tracker**
+- 🔭 I’m currently working on **quiz Ai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
