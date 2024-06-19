@@ -57,12 +57,12 @@
 
 
 <p align="center">
-<a href="https://github.com/subhanshujha007?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=subhanshujha007&theme=onestar&no-frame=true&row=15"  width="100%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/subhanahujha007?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=subhanahujha007&theme=onestar&no-frame=true&row=15"  width="100%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 
 <p align="center">
-<a href="https://gist.github.com/subhanshujha007"><img src="https://profile-counter.glitch.me/{subhanshujha007}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+<a href="https://gist.github.com/subhanahujha007"><img src="https://profile-counter.glitch.me/{subhanahujha007}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
