@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **subhanshujha001@gmail.com**
 
-- ⚡ Fun fact **Sometimes I become very funny with my friends**
+- ⚡ Fun fact **Sometimes I am very funny with my friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatswaroop&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshujha" /></p>
